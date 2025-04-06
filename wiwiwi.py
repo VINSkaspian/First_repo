@@ -1,0 +1,1 @@
+print("tak jsem trochu uz to chapu")
