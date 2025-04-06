@@ -1,1 +1,1 @@
-print("tak jsem trochu uz to chapu")
+print("tak jsem trochu uz to chapu!")
